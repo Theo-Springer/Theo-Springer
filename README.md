@@ -1,13 +1,9 @@
 # 🎮 Welcome to My GitHub Profile!
 
----
-
 ## 👋 About Me :
 
 - 🚀 Currently working on an **Incremental Game** (Game Development)
 - 📚 Currently learning **JS**, **HTML5**, **CSS3**
-
----
 
 ## 💻 Tech Stack :
 
@@ -19,16 +15,11 @@
 ![JavaFX](https://img.shields.io/badge/-JAVAFX-FF7900?style=flat)
 ![Flask](https://img.shields.io/badge/-FLASK-000000?style=flat&logo=flask)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-<br/>
-
 ![Git](https://img.shields.io/badge/-GIT-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GITLAB-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-BITBUCKET-0052CC?style=flat&logo=bitbucket&logoColor=white)
 ![Notion](https://img.shields.io/badge/-NOTION-000000?style=flat&logo=notion)
-
----
 
 ## 📊 GitHub Stats :
 
