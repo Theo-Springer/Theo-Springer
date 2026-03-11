@@ -21,7 +21,8 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
 # 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Springer&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs (GitHub)](https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Springer&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs (WakaTime)](https://github-readme-stats.vercel.app/api/wakatime?username=Theo-Springer&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
