@@ -24,5 +24,3 @@
 # 📊 GitHub Stats:
 
 [![Top Langs (GitHub)](https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Springer&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs (WakaTime)](https://github-readme-stats.vercel.app/api/wakatime?username=Theo-Springer&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
