@@ -1,7 +1,6 @@
 # 👋 About Me:
 
-- 🎮 I'm currently working on game and web projects.
-- 🌍 I'm currently learning advanced web and cloud technologies.
+- I'm currently working on game and some projects.
 
 # 💻 Tech Stack:
 
