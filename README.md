@@ -27,7 +27,7 @@
 
 # 📊 GitHub Stats:
 
-[![Top Langs (GitHub)](https://github-stats-extended.vercel.app/api?username=Theo-Springer)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs (GitHub)](https://github-stats-extended.vercel.app/api/top-langs/?username=Theo-Springer&layout=compact&theme=react&v=2)](https://github.com/anuraghazra/github-stats-extended.vercel.app)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=120&section=footer" />
